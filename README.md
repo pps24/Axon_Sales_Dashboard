@@ -49,7 +49,7 @@ PowerBI's built-in forecasting feature is utilized for generating forecasts.
 ## Screenshots
 
 ![Overview Page](Overview.png)
-![Forecast Page](Forecast.png)
+![Forecast Page](Forecast(2).png)
 
 ## Access Dashboard
 
